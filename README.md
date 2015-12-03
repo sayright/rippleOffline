@@ -1,2 +1,2 @@
-# rippleOffline
-Offline wallet for ripple payment network.
+# unused
+unused
